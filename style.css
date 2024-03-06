@@ -1,12 +1,13 @@
-:root{
-    --bege:#ffeeee;
+:root {
+    --bege: #ffeeee;
 
 }
+
 body {
 
-    background-color:var(--bege);
+    background-color: var(--bege);
 }
 
-image{
+image {
     width: 50%;
 }
