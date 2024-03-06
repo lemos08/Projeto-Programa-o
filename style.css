@@ -1,5 +1,10 @@
+:root{
+    --bege:#ffeeee;
+
+}
 body {
-    background-color: antiquewhite;
+
+    background-color:var(--bege);
 }
 
 image{
