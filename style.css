@@ -17,3 +17,7 @@ header {
     align-items: flex-start;
     justify-content: space-around;
 }
+
+section{
+    display: flex;
+}
