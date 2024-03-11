@@ -12,9 +12,8 @@ image {
     width: 1200px;
 }
 
-header
-display: flex;
-    flex-direction: row;
+header {
+    display: flex;
     align-items: flex-start;
     justify-content: space-around;
 }
