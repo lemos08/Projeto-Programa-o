@@ -23,9 +23,17 @@ section{
     display: flex;
     background-color: #ffeeee;
     border-radius: 30px;
-    /* border-style:dashed; */
-    /* border-width: 32px */
-    /* border-color: black */
+    /* border-style: dashed; */
+    /* border-width: 32px; */
+    /* border-color: black; */
     padding: 10px;
     margin: 10px;
+}
+
+
+equipe{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    background-color: var(--branco);
+    text-align: center;
 }
