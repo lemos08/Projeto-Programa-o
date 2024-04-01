@@ -21,6 +21,7 @@ header {
 
 section{
     display: flex;
-    justify-content:space-around
-    
+    background-color: #ffeeee;
+    border-radius: 30px;
+    /* border-style:dashed; */
 }
