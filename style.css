@@ -37,3 +37,7 @@ equipe{
     background-color: var(--branco);
     text-align: center;
 }
+
+img-class{
+    width: 40;
+}
