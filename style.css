@@ -26,4 +26,6 @@ section{
     /* border-style:dashed; */
     /* border-width: 32px */
     /* border-color: black */
+    padding: 10px;
+    margin: 10px;
 }
