@@ -22,5 +22,4 @@ header {
 section{
     display: flex;
     justify-content:space-around
-    backgroud-color: var(--branco)
-}
+    background-color:(var(--branco))
