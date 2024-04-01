@@ -1,6 +1,7 @@
 :root {
     --bege: #ffeeee;
-
+    --branco: #ffffff;
+    --preto: #000000;
 }
 
 body {
@@ -21,4 +22,5 @@ header {
 section{
     display: flex;
     justify-content:space-around
+    var(--branco)
 }
