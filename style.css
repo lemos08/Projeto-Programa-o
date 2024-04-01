@@ -6,7 +6,7 @@
 
 body {
 
-    background-color: var(--bege);
+    background-color: var(--branco);
 }
 
 image {
@@ -22,5 +22,5 @@ header {
 section{
     display: flex;
     justify-content:space-around
-    background-color:(var(--branco))
+    
 }
